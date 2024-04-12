@@ -1,2 +1,6 @@
 huy lam duoc sheet 8
+<<<<<<< HEAD
 o may
+=======
+o web
+>>>>>>> origin/main
